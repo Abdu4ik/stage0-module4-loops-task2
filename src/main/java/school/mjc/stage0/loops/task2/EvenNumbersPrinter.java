@@ -5,7 +5,7 @@ public class EvenNumbersPrinter {
         
         int  num = 0;
 
-        while (num<=lastPrinted){
+        while (num<=printTillInclusive){
 
             if (num%2==0) {
 
