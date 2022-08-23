@@ -10,6 +10,8 @@ public class WordsBuilder {
             str += chars[i];
 
         }
+        
+        System.out.println(str);
 
     }
 }
